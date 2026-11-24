@@ -1,0 +1,6 @@
+{
+  "name": "YogoSandy — Yogurt Artesanal",
+  "description": "Yogures artesanales 100% naturales, súper cremosos y hechos con fruta real desde 2025. Haz tu pedido por WhatsApp en @yogosandy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
